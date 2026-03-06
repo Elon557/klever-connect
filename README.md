@@ -9,7 +9,7 @@
 ## 🚀 Quick Start
 
 ```bash
-npm install @klever/connect
+npm install @klever/connect0xf49f253b91661f3a8fe126ba3d427ae35326d16a
 # or
 yarn add @klever/connect
 # or
